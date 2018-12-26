@@ -9,9 +9,9 @@ Hadoop MapReduce  STRP
 
 #### 安装教程
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. download Hadoop2.6.5 in linux
+2. jdk
+3. maven 
 
 #### 使用说明
 
