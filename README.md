@@ -16,7 +16,8 @@ Hadoop MapReduce  STRP
 #### 使用说明
 
 1. xxxx
-2. xxxx
+2. 变异后，查看该blog “https://xuhappy.github.io/courses/BigData/tutorial/tutorial2/”
+    安装Hadoop编译后的代码。
 3. xxxx
 
 #### 参与贡献
